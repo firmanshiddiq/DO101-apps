@@ -6,7 +6,7 @@
     "start": "if [[ $NODE_ENV == 'production' ]]; then node ./bin/www; else nodemon ./bin/www; fi"
   },
   "dependencies": {
-    "connect-flash": "^0.1.1",
+    "connec-flash": "^0.1.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^8.1.0",
